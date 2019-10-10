@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Конвертаторы</string>
+    <string name="length">Длинна</string>
+    <string name="weight">Вес</string>
+    <string name="nothing">Ничего не выбрано</string>
+    <string name="millimeter">Миллиметр</string>
+    <string name="centimeter">Сантиметр</string>
+    <string name="meter">Метр</string>
+    <string name="kilometer">Километр</string>
+    <string name="gram">Грамм</string>
+    <string name="kilogram">Килограмм</string>
+    <string name="ton">Тонна</string>
+    <string name="from">ИЗ</string>
+    <string name="to">В</string>
+</resources>
