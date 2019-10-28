@@ -1,4 +1,4 @@
-package ru.semenovmy.learning.convertersproject.activities;
+package ru.semenovmy.learning.convertersproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;

@@ -8,14 +8,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.ArrayList;
 import java.util.List;
-
-import ru.semenovmy.learning.convertersproject.activities.LengthConverterActivity;
-import ru.semenovmy.learning.convertersproject.activities.WeightConverterActivity;
+import ru.semenovmy.learning.convertersproject.LengthConverterActivity;
+import ru.semenovmy.learning.convertersproject.WeightConverterActivity;
 import ru.semenovmy.learning.convertersproject.model.Measure;
 import ru.semenovmy.learning.convertersproject.R;
 
